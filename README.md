@@ -45,7 +45,8 @@ while True:
  ```
 # OUTPUT :
 # CLIENT OUTPUT :
-![OUTPUT](./Screenshot%20(95).png)
+
+![2](https://github.com/JoshuaSamuel7/19CS406--EX-2/assets/118343296/e0dae591-a6b9-4c22-badd-cc82298a2de9)
 
 # SERVER OUTPUT :
 ![Screenshot (45)](https://github.com/ArpanBardhan/EX-2/assets/119405037/613a248f-1c3b-4ece-b38f-0e944e3781b3)
