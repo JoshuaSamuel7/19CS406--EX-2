@@ -35,7 +35,7 @@ while True:
  break
 ```
 ## SERVER PROGRAM:
-```PYTHON 3
+```PYTHON3
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
