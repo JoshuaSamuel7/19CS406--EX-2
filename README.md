@@ -45,12 +45,14 @@ while True:
  ```
 # OUTPUT :
 # CLIENT OUTPUT :
-![Screenshot (95)](https://github.com/JoshuaSamuel7/19CS406--EX-2/assets/118343296/39de2349-eddd-4dbf-8b2b-89ceaef6bc4b)
 
+
+![2a](https://github.com/JoshuaSamuel7/19CS406--EX-2/assets/118343296/7b1e2667-0e43-4f5a-b0cf-b3f5815777d0)
 
 
 # SERVER OUTPUT :
-![Screenshot (45)](https://github.com/ArpanBardhan/EX-2/assets/119405037/613a248f-1c3b-4ece-b38f-0e944e3781b3)
+![2](https://github.com/JoshuaSamuel7/19CS406--EX-2/assets/118343296/01318620-436a-43cb-b701-cbfb0d317c52)
+
 
 # RESULT : 
 
