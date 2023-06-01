@@ -1,11 +1,11 @@
 # EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 
-# DATE: 13/03/23
+## DATE: 15/03/23
 
-# AIM : 
+## AIM : 
 To write a python program to perform stop and wait protocol
 
-# ALGORITHM :
+## ALGORITHM :
 ```
 1. Start the program.
 2. Get the frame size from the user
@@ -15,8 +15,8 @@ To write a python program to perform stop and wait protocol
 will send NACKsignal to client.
 6. Stop the program
 ```
-# PROGRAM :
-# CLIENT PROGRAM:
+## PROGRAM :
+## CLIENT PROGRAM:
 ```
 import socket
 s=socket.socket()
@@ -34,7 +34,7 @@ while True:
  c.close()
  break
 ```
-# SERVER PROGRAM:
+## SERVER PROGRAM:
 ```
 import socket
 s=socket.socket()
@@ -43,18 +43,18 @@ while True:
  print(s.recv(1024).decode())
  s.send("Acknowledgement Recived".encode())
  ```
-# OUTPUT :
-# CLIENT OUTPUT :
+## OUTPUT :
+## CLIENT OUTPUT :
 
 
 ![2a](https://github.com/JoshuaSamuel7/19CS406--EX-2/assets/118343296/7b1e2667-0e43-4f5a-b0cf-b3f5815777d0)
 
 
-# SERVER OUTPUT :
+## SERVER OUTPUT :
 ![2](https://github.com/JoshuaSamuel7/19CS406--EX-2/assets/118343296/01318620-436a-43cb-b701-cbfb0d317c52)
 
 
-# RESULT : 
+## RESULT : 
 
 Thus, python program to perform stop and wait protocol was successfully executed.
 
